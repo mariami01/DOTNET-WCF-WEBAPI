@@ -1,0 +1,10 @@
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementService\obj\Debug\MovieManagementService.csproj.AssemblyReference.cache
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementService\obj\Debug\MovieManagementService.csproj.CoreCompileInputs.cache
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementService\bin\MovieManagementService.dll.config
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementService\bin\MovieManagementService.dll
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementService\bin\MovieManagementService.pdb
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementService\bin\MovieManagementDataAccess.dll
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementService\bin\MovieManagementDataAccess.pdb
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementService\obj\Debug\MovieMan.E4276EDA.Up2Date
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementService\obj\Debug\MovieManagementService.dll
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementService\obj\Debug\MovieManagementService.pdb

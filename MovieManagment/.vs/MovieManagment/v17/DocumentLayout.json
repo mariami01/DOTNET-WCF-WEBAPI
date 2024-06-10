@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iveri\\Downloads\\MovieManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|c:\\users\\iveri\\downloads\\moviemanagment\\moviemanagementservice\\services\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\services\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementservice\\contracts\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\contracts\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementdataaccess\\dataaccess\\actordataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\dataaccess\\actordataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementservice\\actorservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\actorservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementservice\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementservice\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementservice\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementservice\\contracts\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\contracts\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementdataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementdataaccess\\models\\movieactorrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\models\\movieactorrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementdataaccess\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementdataaccess\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementdataaccess\\dataaccess\\movieactordataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\dataaccess\\movieactordataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementservice\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementdataaccess\\dataaccess\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\dataaccess\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementservice\\exceptions\\registrationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\exceptions\\registrationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Downloads\\MovieManagment\\moviemanagementservice\\exceptions\\authenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\exceptions\\authenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActorService.svc.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\ActorService.svc.cs",
+              "RelativeDocumentMoniker": "MovieManagementService\\ActorService.svc.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\ActorService.svc.cs",
+              "RelativeToolTip": "MovieManagementService\\ActorService.svc.cs",
+              "ViewState": "AQIAABMAAABgZmZmZmYswBwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:12:03.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "MovieManagementService\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Service1.svc.cs",
+              "RelativeToolTip": "MovieManagementService\\Service1.svc.cs",
+              "ViewState": "AQIAAAgAAAAgAAAAAAAmwBcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:07:34.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\IService1.cs",
+              "RelativeDocumentMoniker": "MovieManagementService\\IService1.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\IService1.cs",
+              "RelativeToolTip": "MovieManagementService\\IService1.cs",
+              "ViewState": "AQIAABIAAAAANDMzMzPjvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:02:27.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IActorService.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Contracts\\IActorService.cs",
+              "RelativeDocumentMoniker": "MovieManagementService\\Contracts\\IActorService.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Contracts\\IActorService.cs",
+              "RelativeToolTip": "MovieManagementService\\Contracts\\IActorService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:55:42.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActorService.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Services\\ActorService.cs",
+              "RelativeDocumentMoniker": "MovieManagementService\\Services\\ActorService.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Services\\ActorService.cs",
+              "RelativeToolTip": "MovieManagementService\\Services\\ActorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:55:42.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActorDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\ActorDataAccess.cs",
+              "RelativeDocumentMoniker": "MovieManagementDataAccess\\DataAccess\\ActorDataAccess.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\ActorDataAccess.cs",
+              "RelativeToolTip": "MovieManagementDataAccess\\DataAccess\\ActorDataAccess.cs",
+              "ViewState": "AQIAAAcAAABAMzMzMzMrwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:58:32.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Contracts\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieManagementService\\Contracts\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Contracts\\IMovieService.cs",
+              "RelativeToolTip": "MovieManagementService\\Contracts\\IMovieService.cs",
+              "ViewState": "AQIAABAAAABAMzMzMzMmwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:55:42.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieActorRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\Models\\MovieActorRelationship.cs",
+              "RelativeDocumentMoniker": "MovieManagementDataAccess\\Models\\MovieActorRelationship.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\Models\\MovieActorRelationship.cs",
+              "RelativeToolTip": "MovieManagementDataAccess\\Models\\MovieActorRelationship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:59:34.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "MovieManagementService\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "MovieManagementService\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAAoAAAAAMzMzMzMLwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:55:42.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieManagementDataAccess\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieManagementDataAccess\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:59:32.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "MovieManagementDataAccess\\Models\\Actor.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\Models\\Actor.cs",
+              "RelativeToolTip": "MovieManagementDataAccess\\Models\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:59:29.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MovieManagementDataAccess\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\Models\\User.cs",
+              "RelativeToolTip": "MovieManagementDataAccess\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:55:42.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieManagementService\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Services\\MovieService.cs",
+              "RelativeToolTip": "MovieManagementService\\Services\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:55:43.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieActorDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\MovieActorDataAccess.cs",
+              "RelativeDocumentMoniker": "MovieManagementDataAccess\\DataAccess\\MovieActorDataAccess.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\MovieActorDataAccess.cs",
+              "RelativeToolTip": "MovieManagementDataAccess\\DataAccess\\MovieActorDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:55:43.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\UserDataAccess.cs",
+              "RelativeDocumentMoniker": "MovieManagementDataAccess\\DataAccess\\UserDataAccess.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\UserDataAccess.cs",
+              "RelativeToolTip": "MovieManagementDataAccess\\DataAccess\\UserDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:55:42.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationException.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Exceptions\\RegistrationException.cs",
+              "RelativeDocumentMoniker": "MovieManagementService\\Exceptions\\RegistrationException.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Exceptions\\RegistrationException.cs",
+              "RelativeToolTip": "MovieManagementService\\Exceptions\\RegistrationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:55:42.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthenticationException.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Exceptions\\AuthenticationException.cs",
+              "RelativeDocumentMoniker": "MovieManagementService\\Exceptions\\AuthenticationException.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\MovieManagment\\MovieManagementService\\Exceptions\\AuthenticationException.cs",
+              "RelativeToolTip": "MovieManagementService\\Exceptions\\AuthenticationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:55:42.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

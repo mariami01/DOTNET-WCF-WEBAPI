@@ -1,0 +1,6 @@
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementDataAccess\bin\Debug\MovieManagementDataAccess.dll
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementDataAccess\bin\Debug\MovieManagementDataAccess.pdb
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementDataAccess\obj\Debug\MovieManagementDataAccess.csproj.AssemblyReference.cache
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementDataAccess\obj\Debug\MovieManagementDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementDataAccess\obj\Debug\MovieManagementDataAccess.dll
+C:\Users\iveri\Downloads\MovieManagment\MovieManagementDataAccess\obj\Debug\MovieManagementDataAccess.pdb
