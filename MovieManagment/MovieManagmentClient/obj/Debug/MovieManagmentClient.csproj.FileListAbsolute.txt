@@ -1,0 +1,7 @@
+C:\Users\iveri\Desktop\MovieManagment\MovieManagmentClient\bin\Debug\MovieManagmentClient.exe.config
+C:\Users\iveri\Desktop\MovieManagment\MovieManagmentClient\bin\Debug\MovieManagmentClient.exe
+C:\Users\iveri\Desktop\MovieManagment\MovieManagmentClient\bin\Debug\MovieManagmentClient.pdb
+C:\Users\iveri\Desktop\MovieManagment\MovieManagmentClient\obj\Debug\MovieManagmentClient.csproj.AssemblyReference.cache
+C:\Users\iveri\Desktop\MovieManagment\MovieManagmentClient\obj\Debug\MovieManagmentClient.csproj.CoreCompileInputs.cache
+C:\Users\iveri\Desktop\MovieManagment\MovieManagmentClient\obj\Debug\MovieManagmentClient.exe
+C:\Users\iveri\Desktop\MovieManagment\MovieManagmentClient\obj\Debug\MovieManagmentClient.pdb

@@ -22,10 +22,11 @@ namespace MovieManagementDataAccess.DataAccess
             return actors.Find(a => a.ActorID == actorID);
         }
 
-        public void AddActor(Actor actor)
+        public string AddActor(Actor actor)
         {
             actor.ActorID = nextActorID++;
             actors.Add(actor);
+            return "success";
         }
 
         public void UpdateActor(Actor actor)
