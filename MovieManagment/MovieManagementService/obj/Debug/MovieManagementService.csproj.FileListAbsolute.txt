@@ -18,3 +18,13 @@ C:\Users\iveri\Desktop\MovieManagment\MovieManagementService\obj\Debug\MovieMana
 C:\Users\iveri\Desktop\MovieManagment\MovieManagementService\obj\Debug\MovieMan.E4276EDA.Up2Date
 C:\Users\iveri\Desktop\MovieManagment\MovieManagementService\obj\Debug\MovieManagementService.dll
 C:\Users\iveri\Desktop\MovieManagment\MovieManagementService\obj\Debug\MovieManagementService.pdb
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MovieManagment\MovieManagementService\bin\MovieManagementService.dll.config
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MovieManagment\MovieManagementService\bin\MovieManagementService.dll
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MovieManagment\MovieManagementService\bin\MovieManagementService.pdb
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MovieManagment\MovieManagementService\bin\MovieManagementDataAccess.dll
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MovieManagment\MovieManagementService\bin\MovieManagementDataAccess.pdb
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MovieManagment\MovieManagementService\obj\Debug\MovieManagementService.csproj.AssemblyReference.cache
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MovieManagment\MovieManagementService\obj\Debug\MovieManagementService.csproj.CoreCompileInputs.cache
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MovieManagment\MovieManagementService\obj\Debug\MovieMan.E4276EDA.Up2Date
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MovieManagment\MovieManagementService\obj\Debug\MovieManagementService.dll
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MovieManagment\MovieManagementService\obj\Debug\MovieManagementService.pdb

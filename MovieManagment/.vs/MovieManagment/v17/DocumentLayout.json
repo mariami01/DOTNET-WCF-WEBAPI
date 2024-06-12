@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\MovieManagment\\",
+  "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\MovieManagment\\moviemanagementservice\\services\\movieservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\services\\movieservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D01130BE-0C56-4F1E-89C9-19D4F4461D8F}|MovieManagmentClient\\MovieManagmentClient.csproj|c:\\users\\iveri\\desktop\\moviemanagment\\moviemanagmentclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D01130BE-0C56-4F1E-89C9-19D4F4461D8F}|MovieManagmentClient\\MovieManagmentClient.csproj|solutionrelative:moviemanagmentclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\MovieManagment\\moviemanagementservice\\contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\MovieManagment\\moviemanagementservice\\contracts\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\contracts\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\MovieManagment\\moviemanagementservice\\services\\authenticationservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementservice\\services\\authenticationservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\services\\authenticationservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|c:\\users\\iveri\\desktop\\moviemanagment\\moviemanagementdataaccess\\dataaccess\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\moviemanagment\\moviemanagementservice\\services\\movieservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\services\\movieservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01130BE-0C56-4F1E-89C9-19D4F4461D8F}|MovieManagmentClient\\MovieManagmentClient.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagmentclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01130BE-0C56-4F1E-89C9-19D4F4461D8F}|MovieManagmentClient\\MovieManagmentClient.csproj|solutionrelative:moviemanagmentclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementservice\\contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementservice\\contracts\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\contracts\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementdataaccess\\dataaccess\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\dataaccess\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|c:\\users\\iveri\\desktop\\moviemanagment\\moviemanagementdataaccess\\dataaccess\\moviedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementdataaccess\\dataaccess\\moviedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\dataaccess\\moviedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|c:\\users\\iveri\\desktop\\moviemanagment\\moviemanagementservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\MovieManagment\\moviemanagementservice\\services\\actorservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementservice\\services\\actorservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\services\\actorservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\MovieManagment\\moviemanagementservice\\contracts\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementservice\\contracts\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\contracts\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Desktop\\MovieManagment\\moviemanagementdataaccess\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementdataaccess\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Desktop\\MovieManagment\\moviemanagementdataaccess\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementdataaccess\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{226B9AD7-B2DA-4FEF-B022-0FF9AAA6C317}|MovieManagementDataAccess\\MovieManagementDataAccess.csproj|solutionrelative:moviemanagementdataaccess\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\MovieManagment\\moviemanagementservice\\exceptions\\registrationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementservice\\exceptions\\registrationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\exceptions\\registrationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\MovieManagment\\moviemanagementservice\\exceptions\\authenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\moviemanagementservice\\exceptions\\authenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87377F0B-96BF-4757-9D3D-8A1BBF0B4C1D}|MovieManagementService\\MovieManagementService.csproj|solutionrelative:moviemanagementservice\\exceptions\\authenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,67 +66,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagmentClient\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagmentClient\\Program.cs",
               "RelativeDocumentMoniker": "MovieManagmentClient\\Program.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagmentClient\\Program.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagmentClient\\Program.cs",
               "RelativeToolTip": "MovieManagmentClient\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T19:48:23.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T19:48:23.211Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MovieDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\MovieDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\MovieDataAccess.cs",
               "RelativeDocumentMoniker": "MovieManagementDataAccess\\DataAccess\\MovieDataAccess.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\MovieDataAccess.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\MovieDataAccess.cs",
               "RelativeToolTip": "MovieManagementDataAccess\\DataAccess\\MovieDataAccess.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T19:42:17.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T19:42:17.312Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UserDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\UserDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\UserDataAccess.cs",
               "RelativeDocumentMoniker": "MovieManagementDataAccess\\DataAccess\\UserDataAccess.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\UserDataAccess.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementDataAccess\\DataAccess\\UserDataAccess.cs",
               "RelativeToolTip": "MovieManagementDataAccess\\DataAccess\\UserDataAccess.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T19:41:53.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T19:41:53.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IAuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Contracts\\IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Contracts\\IAuthenticationService.cs",
               "RelativeDocumentMoniker": "MovieManagementService\\Contracts\\IAuthenticationService.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Contracts\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Contracts\\IAuthenticationService.cs",
               "RelativeToolTip": "MovieManagementService\\Contracts\\IAuthenticationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T17:06:20.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T17:06:20.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "AuthenticationService.svc.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Services\\AuthenticationService.svc.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Services\\AuthenticationService.svc.cs",
               "RelativeDocumentMoniker": "MovieManagementService\\Services\\AuthenticationService.svc.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Services\\AuthenticationService.svc.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Services\\AuthenticationService.svc.cs",
               "RelativeToolTip": "MovieManagementService\\Services\\AuthenticationService.svc.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Web.config",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Web.config",
               "RelativeDocumentMoniker": "MovieManagementService\\Web.config",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Web.config",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Web.config",
               "RelativeToolTip": "MovieManagementService\\Web.config",
               "ViewState": "AQIAAAcAAABgNDMzMzMLwBcAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -148,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MovieService.svc.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Services\\MovieService.svc.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Services\\MovieService.svc.cs",
               "RelativeDocumentMoniker": "MovieManagementService\\Services\\MovieService.svc.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Services\\MovieService.svc.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Services\\MovieService.svc.cs",
               "RelativeToolTip": "MovieManagementService\\Services\\MovieService.svc.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAABQvRkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,48 +159,45 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ActorService.svc.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Services\\ActorService.svc.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Services\\ActorService.svc.cs",
               "RelativeDocumentMoniker": "MovieManagementService\\Services\\ActorService.svc.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Services\\ActorService.svc.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Services\\ActorService.svc.cs",
               "RelativeToolTip": "MovieManagementService\\Services\\ActorService.svc.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAuwB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:36:02.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T20:36:02.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IActorService.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Contracts\\IActorService.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Contracts\\IActorService.cs",
               "RelativeDocumentMoniker": "MovieManagementService\\Contracts\\IActorService.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Contracts\\IActorService.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Contracts\\IActorService.cs",
               "RelativeToolTip": "MovieManagementService\\Contracts\\IActorService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T17:32:17.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T17:32:17.63Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "IMovieService.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Contracts\\IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Contracts\\IMovieService.cs",
               "RelativeDocumentMoniker": "MovieManagementService\\Contracts\\IMovieService.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Contracts\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Contracts\\IMovieService.cs",
               "RelativeToolTip": "MovieManagementService\\Contracts\\IMovieService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T17:21:22.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T17:21:22.995Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Actor.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementDataAccess\\Models\\Actor.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementDataAccess\\Models\\Actor.cs",
               "RelativeDocumentMoniker": "MovieManagementDataAccess\\Models\\Actor.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementDataAccess\\Models\\Actor.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementDataAccess\\Models\\Actor.cs",
               "RelativeToolTip": "MovieManagementDataAccess\\Models\\Actor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,9 +207,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementDataAccess\\Models\\Movie.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementDataAccess\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "MovieManagementDataAccess\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementDataAccess\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementDataAccess\\Models\\Movie.cs",
               "RelativeToolTip": "MovieManagementDataAccess\\Models\\Movie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,9 +219,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "RegistrationException.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Exceptions\\RegistrationException.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Exceptions\\RegistrationException.cs",
               "RelativeDocumentMoniker": "MovieManagementService\\Exceptions\\RegistrationException.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Exceptions\\RegistrationException.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Exceptions\\RegistrationException.cs",
               "RelativeToolTip": "MovieManagementService\\Exceptions\\RegistrationException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,9 +231,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "AuthenticationException.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Exceptions\\AuthenticationException.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Exceptions\\AuthenticationException.cs",
               "RelativeDocumentMoniker": "MovieManagementService\\Exceptions\\AuthenticationException.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\MovieManagment\\MovieManagementService\\Exceptions\\AuthenticationException.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MovieManagment\\MovieManagementService\\Exceptions\\AuthenticationException.cs",
               "RelativeToolTip": "MovieManagementService\\Exceptions\\AuthenticationException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

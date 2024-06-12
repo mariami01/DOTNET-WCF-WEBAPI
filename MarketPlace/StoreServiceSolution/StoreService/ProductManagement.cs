@@ -1,43 +1,50 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using AutoMapper;
 using MarketService;
+using StoreService;
 
 namespace MarketService
 {
+
     public static class ProductManagement
     {
+        private static readonly IMapper _mapper;
+
+        static ProductManagement()
+        {
+            _mapper = AutoMapperConfig.Configure();
+        }
+
         public static List<ProductDTO> GetProducts()
         {
             using (var db = new MarketModel())
             {
-                return db.Products.Select(p => new ProductDTO
-                {
-                    Id = p.Id,
-                    ProductName = p.ProductName,
-                    Description = p.Description,
-                    Quantity = p.Quantity,
-                }).ToList();
+                var products = db.Products.ToList();
+                return _mapper.Map<List<ProductDTO>>(products);
             }
         }
 
-        public static Response CreateOrUpdateProduct(ProductDTO product)
+        public static Response CreateOrUpdateProduct(ProductDTO productDto)
         {
             try
             {
                 using (var db = new MarketModel())
                 {
-                    Product p = db.Products.FirstOrDefault(i => i.Id == product.Id) ?? new Product();
-                    p.ProductName = product.ProductName;
-                    p.Description = product.Description;
-                    p.Quantity = product.Quantity;
+                    var product = db.Products.FirstOrDefault(i => i.Id == productDto.Id) ?? new Product();
+                    _mapper.Map(productDto, product);
 
-                    if (p.Id == 0)
-                        db.Products.Add(p);
+                    if (product.Id == 0)
+                        db.Products.Add(product);
 
                     db.SaveChanges();
 
-                    return new Response { Success = true, Message = p.Id == 0 ? "Successfully added product" : "Product updated successfully" };
+                    return new Response
+                    {
+                        Success = true,
+                        Message = product.Id == 0 ? "Successfully added product" : "Product updated successfully"
+                    };
                 }
             }
             catch (Exception ex)
@@ -55,11 +62,11 @@ namespace MarketService
 
                 using (var db = new MarketModel())
                 {
-                    Product st = db.Products.FirstOrDefault(i => i.Id == code);
-                    if (st == null)
+                    var product = db.Products.FirstOrDefault(i => i.Id == code);
+                    if (product == null)
                         throw new Exception($"Cannot find product with Id {id}!");
 
-                    db.Products.Remove(st);
+                    db.Products.Remove(product);
                     db.SaveChanges();
 
                     return new Response { Success = true, Message = "Successfully deleted product" };

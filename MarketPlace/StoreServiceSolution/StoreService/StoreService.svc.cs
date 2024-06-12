@@ -1,14 +1,37 @@
 ﻿using System.Collections.Generic;
+using AutoMapper;
 using MarketService;
+using StoreService;
 
 namespace MarketService {
     public class StoreService : IMarketService {
-        public List<ProductDTO> GetProducts() => ProductManagement.GetProducts();
+        private readonly IMapper _mapper;
 
-        public Response CreateProduct(ProductDTO product) => ProductManagement.CreateOrUpdateProduct(product);
+        public StoreService()
+        {
+            _mapper = AutoMapperConfig.Configure();
+        }
 
-        public Response UpdateProduct(ProductDTO product) => ProductManagement.CreateOrUpdateProduct(product);
+        public List<ProductDTO> GetProducts()
+        {
+            return ProductManagement.GetProducts();
+        }
 
-        public Response DeleteProduct(string id) => ProductManagement.DeleteProduct(id);
+        public Response CreateProduct(ProductDTO product)
+        {
+            var productEntity = _mapper.Map<Product>(product);
+            return ProductManagement.CreateOrUpdateProduct(product);
+        }
+
+        public Response UpdateProduct(ProductDTO product)
+        {
+            var productEntity = _mapper.Map<Product>(product);
+            return ProductManagement.CreateOrUpdateProduct(product);
+        }
+
+        public Response DeleteProduct(string id)
+        {
+            return ProductManagement.DeleteProduct(id);
+        }
     }
 }

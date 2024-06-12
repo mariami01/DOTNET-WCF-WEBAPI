@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\",
+  "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreServiceClient\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\Homework03\\WebApplicationSolution\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreServiceClient\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreServiceClient\\ProductForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreServiceClient\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreServiceClient\\ProductForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreServiceClient\\MainForm.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreServiceClient\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreServiceClient\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\Homework03\\WebApplicationSolution\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,68 +37,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.cs",
-              "RelativeDocumentMoniker": "StoreServiceClient\\MainForm.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.cs",
-              "RelativeToolTip": "StoreServiceClient\\MainForm.cs",
+              "DocumentIndex": 3,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.resx",
+              "RelativeDocumentMoniker": "StoreServiceClient\\MainForm.resx",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.resx",
+              "RelativeToolTip": "StoreServiceClient\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-12T07:56:07.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "StoreServiceClient\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.Designer.cs",
+              "RelativeToolTip": "StoreServiceClient\\MainForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:55:59.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.cs",
+              "RelativeDocumentMoniker": "StoreServiceClient\\MainForm.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\MainForm.cs",
+              "RelativeToolTip": "StoreServiceClient\\MainForm.cs",
+              "ViewState": "AQIAACEAAADgzMzMzMwwwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T11:52:19.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\Homework03\\WebApplicationSolution\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\..\\Homework03\\WebApplicationSolution\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\Homework03\\WebApplicationSolution\\Models\\User.cs",
-              "RelativeToolTip": "..\\..\\Homework03\\WebApplicationSolution\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\Program.cs",
+              "RelativeDocumentMoniker": "StoreServiceClient\\Program.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\Program.cs",
+              "RelativeToolTip": "StoreServiceClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:55:59.404Z"
+              "WhenOpened": "2024-05-28T17:00:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.cs",
+              "RelativeDocumentMoniker": "StoreServiceClient\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.cs",
+              "RelativeToolTip": "StoreServiceClient\\ProductForm.cs",
+              "ViewState": "AQIAAB8AAAAANDMzMzMLwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:37:09.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\Program.cs",
-              "RelativeDocumentMoniker": "StoreServiceClient\\Program.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\Program.cs",
-              "RelativeToolTip": "StoreServiceClient\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T17:00:29.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductForm.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.cs",
-              "RelativeDocumentMoniker": "StoreServiceClient\\ProductForm.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.cs",
-              "RelativeToolTip": "StoreServiceClient\\ProductForm.cs",
-              "ViewState": "AQIAAAQAAAAAMzMzMzMrwBIAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T08:37:09.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ProductForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.Designer.cs",
               "RelativeDocumentMoniker": "StoreServiceClient\\ProductForm.Designer.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.Designer.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceClient\\StoreServiceClient\\ProductForm.Designer.cs",
               "RelativeToolTip": "StoreServiceClient\\ProductForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T08:33:16.868Z"
+              "WhenOpened": "2024-04-13T08:33:16.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\Homework03\\WebApplicationSolution\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WebServices_API\\Homework03\\WebApplicationSolution\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\Homework03\\WebApplicationSolution\\Models\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\WebServices_API\\Homework03\\WebApplicationSolution\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:55:59.404Z"
             }
           ]
         }

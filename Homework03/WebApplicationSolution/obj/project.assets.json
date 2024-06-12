@@ -983,11 +983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\Homework03\\WebApplicationSolution\\WebApplicationSolution.csproj",
+      "projectUniqueName": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\Homework03\\WebApplicationSolution\\WebApplicationSolution.csproj",
       "projectName": "WebApplicationSolution",
-      "projectPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\Homework03\\WebApplicationSolution\\WebApplicationSolution.csproj",
+      "projectPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\Homework03\\WebApplicationSolution\\WebApplicationSolution.csproj",
       "packagesPath": "C:\\Users\\iveri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\Homework03\\WebApplicationSolution\\obj\\",
+      "outputPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\Homework03\\WebApplicationSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iveri\\AppData\\Roaming\\NuGet\\NuGet.Config",

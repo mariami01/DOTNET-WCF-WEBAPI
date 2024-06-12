@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "43c8Km+8N7uqeIV+TTmFQYODgzvv9XBhFfKEeyKi8SFSvpk3eePvt9QYzOKoxE6VyvYAK4SElTGsRbxcmEj8tw==",
+  "dgSpecHash": "ZUX869i+hrFgc9rJ3uQhEeFjMNKaB1TwZG/zQAQNmdlkOAV1oXRqqMhMUp3c8GmRA2dUuoCqBrFhgIg4prdZjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iveri\\Desktop\\mariammiz\\WebServices_API\\Homework03\\WebApplicationSolution\\WebApplicationSolution.csproj",
+  "projectFilePath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\Homework03\\WebApplicationSolution\\WebApplicationSolution.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iveri\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\iveri\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
