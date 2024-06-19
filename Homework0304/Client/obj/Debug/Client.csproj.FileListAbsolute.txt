@@ -1,0 +1,13 @@
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\bin\Debug\Client.exe.config
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\bin\Debug\Client.exe
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\bin\Debug\Client.pdb
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\obj\Debug\Client.Login.resources
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\obj\Debug\Client.Order.resources
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\obj\Debug\Client.Product.resources
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\obj\Debug\Client.Registration.resources
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\obj\Debug\Client.exe
+C:\Users\iveri\Desktop\mariammiz\Homework0304\Client\obj\Debug\Client.pdb

@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\IMarketService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:StoreService\\IMarketService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\MarketModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:StoreService\\MarketModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\DataContracts\\ProductDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:StoreService\\DataContracts\\ProductDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\marketplace\\storeservicesolution\\storeservice\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\marketplace\\storeservicesolution\\storeservice\\storeservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\storeservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\AutoMapperProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:StoreService\\AutoMapperProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\marketplace\\storeservicesolution\\storeservice\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:StoreService\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\marketplace\\storeservicesolution\\storeservice\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\StoreService.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:StoreService\\StoreService.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\marketplace\\storeservicesolution\\storeservice\\marketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\marketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:StoreService\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\marketplace\\storeservicesolution\\storeservice\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\AutoMapperConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:StoreService\\AutoMapperConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\marketplace\\storeservicesolution\\storeservice\\imarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\imarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\marketplace\\storeservicesolution\\storeservice\\datacontracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\datacontracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\marketplace\\storeservicesolution\\storeservice\\datacontracts\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\datacontracts\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\marketplace\\storeservicesolution\\storeservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\DataContracts\\Response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED6A46-84CD-47B0-9421-3E405CED8639}|StoreService\\StoreService.csproj|solutionrelative:StoreService\\DataContracts\\Response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,50 +50,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutoMapperConfig.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\AutoMapperConfig.cs",
-              "RelativeDocumentMoniker": "StoreService\\AutoMapperConfig.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\AutoMapperConfig.cs",
-              "RelativeToolTip": "StoreService\\AutoMapperConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T08:43:01.102Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "StoreService\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\AutoMapperProfile.cs",
-              "RelativeToolTip": "StoreService\\AutoMapperProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T08:41:04.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\Product.cs",
-              "RelativeDocumentMoniker": "StoreService\\Product.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\Product.cs",
-              "RelativeToolTip": "StoreService\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T08:30:18.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MarketModel.cs",
               "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\MarketModel.cs",
               "RelativeDocumentMoniker": "StoreService\\MarketModel.cs",
@@ -106,46 +71,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProductManagement.cs",
               "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\ProductManagement.cs",
               "RelativeDocumentMoniker": "StoreService\\ProductManagement.cs",
               "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\ProductManagement.cs",
               "RelativeToolTip": "StoreService\\ProductManagement.cs",
-              "ViewState": "AQIAAD4AAAAAQDMzMzPjvxwAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T07:58:02.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "StoreService.svc.cs",
               "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\StoreService.svc.cs",
               "RelativeDocumentMoniker": "StoreService\\StoreService.svc.cs",
               "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\StoreService.svc.cs",
               "RelativeToolTip": "StoreService\\StoreService.svc.cs",
-              "ViewState": "AQIAABUAAAAANDMzMzPzvx0AAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:54:20.063Z",
+              "WhenOpened": "2024-06-12T07:54:20.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\Web.config",
+              "RelativeDocumentMoniker": "StoreService\\Web.config",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\Web.config",
+              "RelativeToolTip": "StoreService\\Web.config",
+              "ViewState": "AQIAABwAAAAANDMzMzMLwCwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-12T08:24:02.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\DataContracts\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "StoreService\\DataContracts\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\DataContracts\\ProductDTO.cs",
+              "RelativeToolTip": "StoreService\\DataContracts\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:58:17.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "IMarketService.cs",
               "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\IMarketService.cs",
               "RelativeDocumentMoniker": "StoreService\\IMarketService.cs",
               "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\IMarketService.cs",
               "RelativeToolTip": "StoreService\\IMarketService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T08:01:43.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\Product.cs",
+              "RelativeDocumentMoniker": "StoreService\\Product.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\Product.cs",
+              "RelativeToolTip": "StoreService\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:30:18.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "StoreService\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\AutoMapperProfile.cs",
+              "RelativeToolTip": "StoreService\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:41:04.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "StoreService\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\AutoMapperConfig.cs",
+              "RelativeToolTip": "StoreService\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:43:01.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\DataContracts\\Response.cs",
               "RelativeDocumentMoniker": "StoreService\\DataContracts\\Response.cs",
@@ -153,34 +178,7 @@
               "RelativeToolTip": "StoreService\\DataContracts\\Response.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:54:25.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\DataContracts\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "StoreService\\DataContracts\\ProductDTO.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\DataContracts\\ProductDTO.cs",
-              "RelativeToolTip": "StoreService\\DataContracts\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:58:17.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\Web.config",
-              "RelativeDocumentMoniker": "StoreService\\Web.config",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\MarketPlace\\StoreServiceSolution\\StoreService\\Web.config",
-              "RelativeToolTip": "StoreService\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-12T08:24:02.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T07:54:25.518Z"
             }
           ]
         }

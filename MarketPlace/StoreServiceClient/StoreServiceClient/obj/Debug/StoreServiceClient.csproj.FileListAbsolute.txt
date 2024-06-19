@@ -34,3 +34,11 @@ C:\Users\iveri\Desktop\mariammiz\WebServices_API\MarketPlace\StoreServiceClient\
 C:\Users\iveri\Desktop\mariammiz\WebServices_API\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\StoreServiceClient.csproj.CoreCompileInputs.cache
 C:\Users\iveri\Desktop\mariammiz\WebServices_API\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\StoreServiceClientApp.exe
 C:\Users\iveri\Desktop\mariammiz\WebServices_API\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\StoreServiceClientApp.pdb
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\StoreServiceClient.csproj.AssemblyReference.cache
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\MarketServiceClientApp.MainForm.resources
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\MarketServiceClientApp.ProductForm.resources
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\StoreServiceClientApp.Properties.Resources.resources
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\StoreServiceClient.csproj.GenerateResource.cache
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\StoreServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\StoreServiceClientApp.exe
+C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\MarketPlace\StoreServiceClient\StoreServiceClient\obj\Debug\StoreServiceClientApp.pdb
