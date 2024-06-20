@@ -1,74 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\",
+  "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\petadaptation\\petadaptation\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\petadaptation\\petadaptation\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\bl\\usermangament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\bl\\usermangament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\bl\\usermangament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{067B065A-5F18-4992-9754-8274ED2D7665}|DTO1\\DTO.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\petadaptation\\dto1\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{067B065A-5F18-4992-9754-8274ED2D7665}|DTO1\\DTO.csproj|solutionrelative:dto1\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{067B065A-5F18-4992-9754-8274ED2D7665}|DTO1\\DTO.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\petadaptation\\dto1\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{067B065A-5F18-4992-9754-8274ED2D7665}|DTO1\\DTO.csproj|solutionrelative:dto1\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petadaptation\\petadaptation\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{067B065A-5F18-4992-9754-8274ED2D7665}|DTO1\\DTO.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\petadaptation\\dto1\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{067B065A-5F18-4992-9754-8274ED2D7665}|DTO1\\DTO.csproj|solutionrelative:dto1\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\migrations\\202406191830188_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\migrations\\202406191830188_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\migrations\\202406191830188_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\petadaptation\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\petadaptation\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945000C6-A5B5-4AB4-A140-546EB4DA077A}|PetAdaptation\\PetAdaptation.csproj|solutionrelative:petadaptation\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\Response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +75,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -87,23 +84,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "PetAdaptation\\App_Start\\WebApiConfig.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "PetAdaptation\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T20:51:44.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Global.asax.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Global.asax.cs",
               "RelativeToolTip": "PetAdaptation\\Global.asax.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,24 +96,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Request.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\Request.cs",
-              "RelativeDocumentMoniker": "DTO1\\Request.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\Request.cs",
-              "RelativeToolTip": "DTO1\\Request.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PetAdaptation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PetAdaptation\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA8AAACAZmZmZmYkwCEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T20:39:23.942Z",
+              "WhenOpened": "2024-06-19T18:44:46.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UserMangament.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\BL\\UserMangament.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\BL\\UserMangament.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\BL\\UserMangament.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\BL\\UserMangament.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\BL\\UserMangament.cs",
               "RelativeToolTip": "PetAdaptation\\BL\\UserMangament.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,24 +122,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "PetAdaptation\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "PetAdaptation\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAbAAAA",
+              "DocumentIndex": 14,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\Request.cs",
+              "RelativeDocumentMoniker": "..\\.github\\PetAdaptation\\DTO1\\Request.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\Request.cs",
+              "RelativeToolTip": "..\\.github\\PetAdaptation\\DTO1\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T18:44:46.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T20:39:23.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "PetAdaptation\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "PetAdaptation\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:51:44.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Web.config",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Web.config",
               "RelativeDocumentMoniker": "PetAdaptation\\Web.config",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Web.config",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Web.config",
               "RelativeToolTip": "PetAdaptation\\Web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -164,37 +159,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\Response.cs",
-              "RelativeDocumentMoniker": "DTO1\\Response.cs",
+              "RelativeDocumentMoniker": "..\\.github\\PetAdaptation\\DTO1\\Response.cs",
               "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\Response.cs",
-              "RelativeToolTip": "DTO1\\Response.cs",
+              "RelativeToolTip": "..\\.github\\PetAdaptation\\DTO1\\Response.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T20:39:20.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T20:39:20.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\UserDTO.cs",
-              "RelativeDocumentMoniker": "DTO1\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\.github\\PetAdaptation\\DTO1\\UserDTO.cs",
               "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO1\\UserDTO.cs",
-              "RelativeToolTip": "DTO1\\UserDTO.cs",
+              "RelativeToolTip": "..\\.github\\PetAdaptation\\DTO1\\UserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T20:39:22.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T20:39:22.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "RegisterModel.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Models\\RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Models\\RegisterModel.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\Models\\RegisterModel.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Models\\RegisterModel.cs",
               "RelativeToolTip": "PetAdaptation\\Models\\RegisterModel.cs",
               "ViewState": "AQIAAAcAAAAgMzMzMzMrwBsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Models\\LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Models\\LoginModel.cs",
               "RelativeToolTip": "PetAdaptation\\Models\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "PetAdaptation\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "202406191830188_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Migrations\\202406191830188_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Migrations\\202406191830188_InitialCreate.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\Migrations\\202406191830188_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Migrations\\202406191830188_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Migrations\\202406191830188_InitialCreate.cs",
               "RelativeToolTip": "PetAdaptation\\Migrations\\202406191830188_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,11 +231,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Migrations\\Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Migrations\\Configuration.cs",
               "RelativeToolTip": "PetAdaptation\\Migrations\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -250,11 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Models\\User.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Models\\User.cs",
               "RelativeToolTip": "PetAdaptation\\Models\\User.cs",
               "ViewState": "AQIAABsAAAAAZ2ZmZmYawCUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,11 +255,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "PetAdaptation\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAABkAAAAAzczMzMwUwCIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Models\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Models\\Role.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Models\\Role.cs",
               "RelativeToolTip": "PetAdaptation\\Models\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,11 +279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Pet.cs",
-              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Models\\Pet.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Models\\Pet.cs",
               "RelativeDocumentMoniker": "PetAdaptation\\Models\\Pet.cs",
-              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\PetAdaptation\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\PetAdaptation\\Models\\Pet.cs",
               "RelativeToolTip": "PetAdaptation\\Models\\Pet.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAADAAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

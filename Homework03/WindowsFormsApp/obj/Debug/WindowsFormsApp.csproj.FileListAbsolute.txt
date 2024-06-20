@@ -1,9 +1,0 @@
-C:\Users\iveri\Desktop\mariammiz\WebServices_API\Homework03\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
-C:\Users\iveri\Desktop\mariammiz\WebServices_API\Homework03\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
-C:\Users\iveri\Desktop\mariammiz\WebServices_API\Homework03\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
-C:\Users\iveri\Desktop\mariammiz\WebServices_API\Homework03\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
-C:\Users\iveri\Desktop\mariammiz\WebServices_API\Homework03\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
-C:\Users\iveri\Desktop\mariammiz\WebServices_API\Homework03\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
-C:\Users\iveri\Desktop\mariammiz\WebServices_API\Homework03\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
-C:\Users\iveri\Desktop\mariammiz\WebServices_API\Homework03\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
-C:\Users\iveri\Desktop\mariammiz\WebServices_API\Homework03\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

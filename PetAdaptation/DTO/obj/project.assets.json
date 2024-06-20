@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO\\DTO.csproj",
+      "projectUniqueName": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\DTO\\DTO.csproj",
       "projectName": "DTO",
-      "projectPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO\\DTO.csproj",
+      "projectPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\DTO\\DTO.csproj",
       "packagesPath": "C:\\Users\\iveri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\PetAdaptation\\DTO\\obj\\",
+      "outputPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetAdaptation\\DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iveri\\AppData\\Roaming\\NuGet\\NuGet.Config",

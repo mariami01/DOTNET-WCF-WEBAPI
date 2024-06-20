@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\petproject\\bl\\usermangament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|solutionrelative:petproject\\bl\\usermangament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\petproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|solutionrelative:petproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\petproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|solutionrelative:petproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Downloads\\Homework3\\Webapi\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\petproject\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|solutionrelative:petproject\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iveri\\Downloads\\Homework3\\Webapi\\App_Start\\WebApiConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\petproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|solutionrelative:petproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D84551-C450-4977-AE87-673BEC2575F4}|DTO\\DTO.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D84551-C450-4977-AE87-673BEC2575F4}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\petproject\\models\\petmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|solutionrelative:petproject\\models\\petmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\petproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497A4DE-6963-4759-942F-522DC1C0053E}|PetProject\\PetProject.csproj|solutionrelative:petproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D84551-C450-4977-AE87-673BEC2575F4}|DTO\\DTO.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D84551-C450-4977-AE87-673BEC2575F4}|DTO\\DTO.csproj|solutionrelative:dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D84551-C450-4977-AE87-673BEC2575F4}|DTO\\DTO.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\dto\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D84551-C450-4977-AE87-673BEC2575F4}|DTO\\DTO.csproj|solutionrelative:dto\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D84551-C450-4977-AE87-673BEC2575F4}|DTO\\DTO.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\petproject\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D84551-C450-4977-AE87-673BEC2575F4}|DTO\\DTO.csproj|solutionrelative:dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PetProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\Models\\User.cs",
+              "RelativeToolTip": "PetProject\\Models\\User.cs",
+              "ViewState": "AQIAABIAAAAwMzMzMzMwwCEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:52:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetModel.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\Models\\PetModel.cs",
+              "RelativeDocumentMoniker": "PetProject\\Models\\PetModel.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\Models\\PetModel.cs",
+              "RelativeToolTip": "PetProject\\Models\\PetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:51:56.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\Web.config",
+              "RelativeDocumentMoniker": "PetProject\\Web.config",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\Web.config",
+              "RelativeToolTip": "PetProject\\Web.config",
+              "ViewState": "AQIAAAAAAAAAZmZmZmYkwEsAAABCAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-20T18:49:50.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PetProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PetProject\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABAAAAAAMzMzMzMLwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:43:40.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMangament.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\BL\\UserMangament.cs",
+              "RelativeDocumentMoniker": "PetProject\\BL\\UserMangament.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\BL\\UserMangament.cs",
+              "RelativeToolTip": "PetProject\\BL\\UserMangament.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:44:31.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\Homework3\\Webapi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Homework3\\Webapi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\Homework3\\Webapi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Homework3\\Webapi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:14:37.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "PetProject\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "PetProject\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:04:22.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Downloads\\Homework3\\Webapi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Homework3\\Webapi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\iveri\\Downloads\\Homework3\\Webapi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Homework3\\Webapi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:07:27.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PetProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\PetProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PetProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:43:45.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:35:02.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\DTO\\Response.cs",
+              "RelativeDocumentMoniker": "DTO\\Response.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\DTO\\Response.cs",
+              "RelativeToolTip": "DTO\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:35:00.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\DTO\\Request.cs",
+              "RelativeDocumentMoniker": "DTO\\Request.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\DTO\\Request.cs",
+              "RelativeToolTip": "DTO\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:34:45.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO\\Class1.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\PetProject\\DTO\\Class1.cs",
+              "RelativeToolTip": "DTO\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:34:07.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
