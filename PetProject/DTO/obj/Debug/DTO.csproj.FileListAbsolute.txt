@@ -4,3 +4,15 @@ C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\PetProject\DTO\obj\Debug\DTO.
 C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\PetProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\PetProject\DTO\obj\Debug\DTO.dll
 C:\Users\iveri\Desktop\mariammiz\DOTNET-WCF-WEBAPI\PetProject\DTO\obj\Debug\DTO.pdb
+C:\uni\DOTNET-WCF-WEBAPI\PetProject\DTO\bin\Debug\DTO.dll
+C:\uni\DOTNET-WCF-WEBAPI\PetProject\DTO\bin\Debug\DTO.pdb
+C:\uni\DOTNET-WCF-WEBAPI\PetProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\uni\DOTNET-WCF-WEBAPI\PetProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\uni\DOTNET-WCF-WEBAPI\PetProject\DTO\obj\Debug\DTO.dll
+C:\uni\DOTNET-WCF-WEBAPI\PetProject\DTO\obj\Debug\DTO.pdb
+C:\Users\iveri\Downloads\PetProject\DTO\bin\Debug\DTO.dll
+C:\Users\iveri\Downloads\PetProject\DTO\bin\Debug\DTO.pdb
+C:\Users\iveri\Downloads\PetProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\iveri\Downloads\PetProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\iveri\Downloads\PetProject\DTO\obj\Debug\DTO.dll
+C:\Users\iveri\Downloads\PetProject\DTO\obj\Debug\DTO.pdb

@@ -9,5 +9,6 @@ namespace DTO
     public class Request<T>
     {
         public T Object { get; set; }
+        public string Token {  get; set; }
     }
 }

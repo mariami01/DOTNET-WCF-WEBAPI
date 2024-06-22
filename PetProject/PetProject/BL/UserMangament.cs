@@ -76,10 +76,9 @@ namespace PetProject.BL
                         return new Response { Success = false, Message = "Invalid email or password" };
                     }
 
-                    // Generate simple token
                     string token = GenerateToken();
                     user.Token = token;
-                   // user.TokenExpiry = DateTime.UtcNow.AddHours(1); // Token valid for 1 hour
+                   // user.TokenExpiry = DateTime.UtcNow.AddHours(1); 
                     db.SaveChanges();
 
                     return new Response { Success = true, Message = "Login successful", Token = token, UserId = user.Id };
@@ -88,6 +87,105 @@ namespace PetProject.BL
             catch (Exception ex)
             {
                 return new Response { Success = false, Message = "Error logging in", Errors = new Dictionary<string, string> { { "Exception", ex.Message } } };
+            }
+        }
+
+        public static Response GetAllUsers(int pageNumber = 1, int pageSize = 3)
+        {
+            try
+            {
+                using (PetModel db = new PetModel())
+                {
+                    var query = db.Users.Select(u => new UserDTO
+                    {
+                        Id = u.Id,
+                        Name = u.Name,
+                        LastName = u.LastName,
+                        Email = u.Email,
+                        RoleId = u.RoleId,
+                        RoleName = u.Role.Name,
+                        token = u.Token
+                    });
+
+                    int totalItems = query.Count();
+                    List<UserDTO> users = query
+                        .OrderBy(u => u.Name)
+                        .Skip((pageNumber - 1) * pageSize)
+                        .Take(pageSize)
+                        .ToList();
+
+                    return new Response
+                    {
+                        Success = true,
+                        Message = "Users retrieved successfully",
+                        Object = users,
+                        TotalItems = totalItems,
+                        PageNumber = pageNumber,
+                        PageSize = pageSize
+                    };
+                }
+            }
+            catch (Exception e)
+            {
+                return new Response
+                {
+                    Success = false,
+                    Message = e.Message
+                };
+            }
+        }
+
+        public static Response FilterUsers(string name, string lastName, string email, string roleName)
+        {
+            try
+            {
+                using (PetModel db = new PetModel())
+                {
+                    var query = db.Users.AsQueryable();
+
+                    if (!string.IsNullOrEmpty(name))
+                    {
+                        query = query.Where(u => u.Name.Contains(name));
+                    }
+                    if (!string.IsNullOrEmpty(lastName))
+                    {
+                        query = query.Where(u => u.LastName.Contains(lastName));
+                    }
+                    if (!string.IsNullOrEmpty(email))
+                    {
+                        query = query.Where(u => u.Email.Contains(email));
+                    }
+                    if (!string.IsNullOrEmpty(roleName))
+                    {
+                        query = query.Where(u => u.Role.Name.Contains(roleName));
+                    }
+
+                    var users = query.Select(u => new UserDTO
+                    {
+                        Id = u.Id,
+                        Name = u.Name,
+                        LastName = u.LastName,
+                        Email = u.Email,
+                        RoleId = u.RoleId,
+                        RoleName = u.Role.Name,
+                        token = u.Token
+                    }).ToList();
+
+                    return new Response
+                    {
+                        Success = true,
+                        Message = "Users filtered successfully",
+                        Object = users
+                    };
+                }
+            }
+            catch (Exception e)
+            {
+                return new Response
+                {
+                    Success = false,
+                    Message = e.Message
+                };
             }
         }
     }
